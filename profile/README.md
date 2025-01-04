@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/FRC3636/.github/refs/heads/main/logo.svg" height="100" align="right" alt="Star Logo"> Generals Robotics
+# <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FRC3636/.github/refs/heads/main/logo-dark-mode.svg"><img src="https://raw.githubusercontent.com/FRC3636/.github/refs/heads/main/logo.svg" height="100" align="right" alt="Star Logo"></picture> Generals Robotics
 
 [Website][website] — [Branding][branding] — [Contact Us][contact]
 
